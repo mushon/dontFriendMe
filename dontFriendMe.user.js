@@ -6,7 +6,6 @@
 // @include        http://facebook.com/*
 // @copyright      Modified by Mushon Zer-Aviv [http://bit.ly/friending-me] based on JoeSimmons "Replace Text On Webpages" / http://userscripts.org/scripts/review/41369
 // @version        1.0.00
-// @license        http://creativecommons.org/licenses/by-nc-nd/3.0/us/
 // ==/UserScript==
 
 var words = {
@@ -16,6 +15,10 @@ var words = {
 "friends" : "contacts",
 "ignore" : "skip",
 "unfriend" : "disconnect",
+"Friend" : "Contact",
+"Friends" : "Contacts",
+"Ignore" : "Skip",
+"Unfriend" : "Disconnect",
 ///////////////////////////////////////////////////////
 "":""};
 
